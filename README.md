@@ -42,5 +42,3 @@ I am always eager to connect with fellow developers and recruiters. Feel free to
 Happy Coding!
 
 ---
-
-By using this structured and professional description, you can effectively present your DSA journey and attract the attention of recruiters from top companies like Google.
