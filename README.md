@@ -13,6 +13,7 @@ The repository is organized by problem categories to facilitate easy navigation 
 - **Basics**
 - **Sorting**
 - **Arrays**
+- **Matrices**
 ---OTHER TOPICS WILL BE ADDED SOON---
 
 ## Key Features
