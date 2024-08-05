@@ -14,6 +14,7 @@ The repository is organized by problem categories to facilitate easy navigation 
 - **Sorting**
 - **Arrays**
 - **Matrices**
+- **Binary Search**
 ---OTHER TOPICS WILL BE ADDED SOON---
 
 ## Key Features
